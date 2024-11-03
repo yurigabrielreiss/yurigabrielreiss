@@ -24,7 +24,7 @@ I'm 20 years old and i’m a Computer Engineering student at UTFPR, Pato Branco 
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++"/></code>
 
 
-<img align="right" alt="GIF" src="./the-office-the.gif" width="500" height="320" />
+<img align="right" alt="GIF" src="./code.gif" width="500" height="320" />
 
 
 
