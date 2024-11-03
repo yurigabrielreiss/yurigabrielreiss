@@ -9,7 +9,7 @@ I'm 20 years old and I’m a Computer Engineering student at UTFPR, Pato Branco 
 
 - ☕🎮 Coffee and games in my free time.
 
-- Or you can reach me at <yurigabrielreiss@hotmail.com>
+- or you can reach me at <yurigabrielreiss@hotmail.com>
   <a href="https://www.instagram.com/yuri_gabrielreis/" target="_blank"><img align="left" alt="Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" /></a>
 <a href="https://www.linkedin.com/in/yuri-gabriel-reis" target="_blank"><img align="left" alt="LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" /></a>
 
