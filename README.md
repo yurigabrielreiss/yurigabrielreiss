@@ -1,9 +1,9 @@
 # Yuri Gabriel
 ## Hi, Devs!!
 
-I'm 20 years old and I’m a Computer Engineering student at UTFPR, Pato Branco campus. I currently work remotely managing accounting systems and administering servers. Currently striving to learn more each day about programming and electronics. 
+I'm 20 years old and I’m a Computer Engineering student at UTFPR, Pato Branco campus. Currently striving to learn more each day about programming and electronics. 
 
-- 📻 I'm currently working on projects involving acoustic equipment and sound source recognition algorithms.
+- 📻 I'm currently working on projects based on acoustic equipment and sound source recognition algorithms.
 
 - 🌱 I'm currently learning microcontroller systems and sound Direction of Arrival (DOA) algorithms.
 
